@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Участки</string>
+    <string name="title_dashboard">Ремонт</string>
+    <string name="title_notifications">ППР</string>
+    <string name="zone">Рабочие участки</string>
+
+</resources>
